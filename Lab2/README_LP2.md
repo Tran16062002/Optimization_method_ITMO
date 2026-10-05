@@ -129,7 +129,7 @@ lab2_pyavsky/
 ## 5. Запуск
 
 ```bash
-python pyavsky.py
+python Piyavskii_method.py
 ```
 Программа:
 
