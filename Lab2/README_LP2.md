@@ -109,8 +109,6 @@ lab2_pyavsky/
 
 ├── README_LP2.md # этот файл
 
-├── Lab2_Pyavsky.ipynb # Jupyter Notebook (опционально)
-
 ├── result_1_rastrigin.png # визуализация для Растригина
 
 ├── result_2_ackley.png # визуализация для Экли
