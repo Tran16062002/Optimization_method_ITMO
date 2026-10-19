@@ -109,8 +109,6 @@ lab2_pyavsky/
 
 ├── README_LP2.md # этот файл
 
-├── Lab2_Pyavsky.ipynb # Jupyter Notebook (опционально)
-
 ├── result_1_rastrigin.png # визуализация для Растригина
 
 ├── result_2_ackley.png # визуализация для Экли
@@ -130,10 +128,8 @@ lab2_pyavsky/
 
 ## 5. Запуск
 
-### 5.1. Локальный запуск
-
 ```bash
-python pyavsky.py
+python Piyavskii_method.py
 ```
 Программа:
 
@@ -144,10 +140,6 @@ python pyavsky.py
 - Сохранит 4 PNG-файла в текущую папку;
 
 - Выведет итоговую таблицу.
-
-### 5.2. Запуск в Jupyter Notebook
-Открыть `Lab2_Pyavsky.ipynb` и выполнить все ячейки последовательно.
-Графики отображаются прямо в ноутбуке, файлы также сохраняются.
 
 ## 6. Описание реализации
 ### 6.1. Основной алгоритм (`pyavsky_method`)
